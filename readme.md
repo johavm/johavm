@@ -17,3 +17,8 @@ Hacer el cierre de la presentación, invitando a contactar ...
 
 ## Hobbies
 - Dancing
+
+## Languages
+- English
+- Spanish
+- Portuguese
