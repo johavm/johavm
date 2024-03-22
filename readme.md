@@ -11,3 +11,10 @@ Hacer el cierre de la presentación, invitando a contactar ...
 - HTML
 - CSS
 - JS
+
+## Skills
+- Coaching
+
+## Hobbies
+- Dancing
+
